@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     vzw_msdc_api \
+    HotwordEnrollment \
     CNEService \
     SprintDM \
     SprintHM \
